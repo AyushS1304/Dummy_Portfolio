@@ -212,16 +212,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-    link: "https://github.com/Dhruv610ag",
+    link: "https://github.com/AyushS1308",
   },
   {
     id: 2,
     img: "/insta.svg",
-    link: "https://www.instagram.com/610dhruv/",
+    link: "https://www.instagram.com/_ayushshrma_/",
   },
   {
     id: 3,
     img: "/link.svg",
-    link: "http://www.linkedin.com/in/dhruv-agarwal-773b32287",
+    link: "https://www.linkedin.com/in/ayush-sharma-6219352b1/",
   },
 ];
